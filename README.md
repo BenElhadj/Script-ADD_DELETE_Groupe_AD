@@ -4,7 +4,7 @@ Fichiers et prérequis
 1.	Prérequis
 -	Ouvrez l'application Active Directory « en dur » et gardez-la ouverte tout au long du processus
 
-2.	Fichier obligatoire pour le bon déroulement du script « AD_Group_check_delete_add .ps1 » :
+2.	Fichier obligatoire pour le bon déroulement du script « AD_Group_check_delete_add.ps1 » :
 -	sensitive_group.txt
 -	pc_to_do.txt
 -	to_add.txt
